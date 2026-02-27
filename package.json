@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@payloadcms/db-postgres": "^3.77.0",
     "next": "16.1.6",
+    "payload": "^3.77.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
